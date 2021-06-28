@@ -1,0 +1,5 @@
+light-yellow: F8FFE5
+green: 06D6AO
+blue: 1B9AAA
+pink: EF476F
+orange-yello: FFC43D
